@@ -1,9 +1,9 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Bookdown Example for Orange Cohort"
+author: "Parker Baker"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Executive Summary
 

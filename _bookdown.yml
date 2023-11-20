@@ -1,8 +1,8 @@
 book_filename: "bookdownproj"
 output_dir: docs
 delete_merged_file: true
-edit: https://github.com/YOUR GITHUB USERNAME/YOUR REPO NAME/edit/main/%s
-view: https://github.com/YOUR GITHUB USERNAME/YOUR REPO NAME/blob/main/%s
-language:
+edit: https://parkercbaker.github.io/MyFirstBookdown/edit/main%s
+view: https://parkercbaker.github.io/MyFirstBookdown/blob/main/%s
+language: s
   ui:
     chapter_name: "Chapter "
